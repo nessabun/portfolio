@@ -58,6 +58,8 @@ header {
     padding: 5rem 2rem;
     font-family: "Ubuntu", sans-serif;
     margin-bottom: 7rem;
+    background: linear-gradient(90deg, rgba(173, 211, 240, 1) 0%, rgba(206, 162, 235, 1) 50%, rgba(237, 190, 232, 1) 100%);
+    border-bottom: var(--font) 3px solid;
 }
 
 header h1 {
